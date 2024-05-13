@@ -1,0 +1,33 @@
+.button {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #adad8b;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+  .button:hover {background-color: #b3b3a2}
+  
+  .button:active {
+    background-color: #b3b3a2;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+h1{
+    text-align: center;
+}
+
+body{
+    margin-right: 40px;
+    margin-left:40px;
+    background-color: beige;
+}
+
+#szovegmezo{
+    text-align: center;
+}
